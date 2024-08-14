@@ -20,6 +20,25 @@ Our prototype secured 5th place at the Caterpillar hackathon, demonstrating our 
 
 ## Setup and Usage
 
-Instructions for setting up and using the application can be found in the [README.md](README.md) file.
+### Prerequisites
 
+- **Python 3.x**: Make sure you have Python 3.x installed on your system.
+- **Dependencies**: The application requires certain Python packages. These can be installed via `pip`.
+
+### Usage
+- **Voice Commands**: Follow the on-screen prompts or use voice commands to guide the inspection process.
+- **Form Navigation**: Use commands like "OK" to proceed through sections of the inspection form.
+- **Image Capture**: Issue the voice command to capture images of specific equipment parts.
+- **Review Reports**: After completing the inspection, review and validate the report via the user interface.
+- **Export Reports**: Generate and export the inspection summary report to PDF, including images.
+
+### Troubleshooting
+- **Common Issues**: Ensure all dependencies are correctly installed and configuration files are properly set up.
+- **Logs**: Check the application logs for detailed error messages if you encounter problems.
+  
+### Contributing
+If you would like to contribute to the project, please create a pull request and provide a detailed description of your changes and why they should be merged.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
